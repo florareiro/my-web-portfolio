@@ -1,0 +1,50 @@
+{
+  "themeColors": {
+    "lightMode": {
+      "primary": "#FF5733",
+      "secondary": "#33FF57",
+      "background": "#F5F5F5"
+    },
+    "darkMode": {
+      "primary": "#FF5733",
+      "secondary": "#33FF57",
+      "background": "#F5F5F5"
+    }
+  },
+  "header": {
+    "title": {
+      "en": "Cecília Flora - Full Stack Developer",
+      "pt": "Cecília Flora - Dev Full Stack"
+    },
+    "darkModeLabel": {
+      "en": "Dark Mode:",
+      "pt": "Modo Escuro:"
+    },
+    "languageLabel": {
+      "en": "Language:",
+      "pt": "Idioma :"
+    },
+    "languageOptions": {
+      "en": "English",
+      "pt": "Português"
+    },
+    "menu": {
+      "en": ["About", "Services", "Projects", "Contact"],
+      "pt": ["Sobre", "Serviços", "Projetos", "Contato"]
+    }
+  },
+  "cards": [
+    {
+      "title": "Card 1",
+      "content": "Content for card 1"
+    },
+    {
+      "title": "Card 2",
+      "content": "Content for card 2"
+    }
+  ],
+  "images": {
+    "logo": "/path/to/logo.png",
+    "background": "/path/to/background.jpg"
+  }
+}
