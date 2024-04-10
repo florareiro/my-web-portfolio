@@ -27,8 +27,10 @@ export default {
         "2xl": "1220px",
       },
       backgroundImage: {
-        "dark-bg": 'url("/images/hero/dark-bg.gif")',
-        "light-bg": 'url("/images/hero/light-bg.gif")',
+        "dark-bg":
+          'url("https://florareiro.github.io/my-web-portfolio/images/hero/dark-bg.gif")',
+        "light-bg":
+          'url("https://florareiro.github.io/my-web-portfolio/images/hero/light-bg.gif")',
       },
       colors: {
         lightmode: {
