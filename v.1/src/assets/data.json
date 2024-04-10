@@ -130,11 +130,11 @@
         "url": "https://summercomunicacao.com.br/",
         "image": "./images/projects/summer.png",
         "title": {
-          "en": "Maintence and Features ",
+          "en": "Website Update and Migration to ReactJS ",
           "pt": "Criação de Hotsites, Landing Pages, Gestão de CRM e CMS."
         },
         "desc": {
-          "en": "",
+          "en": "As a Full Stack Developer at the marketing agency Summer Comunicação, I developed websites, hot pages, and landing pages for clients from various market segments such as Healthcare, Logistics, and Construction companies. I designed email marketing campaigns for different providers like Outlook, Gmail, and RdStation, and conducted training sessions for marketing teams to facilitate campaign deliveries and provide support in adopting new technologies.",
           "pt": "Como Dev Full Stack na agência de Marketing Summer Comunicação, desenvolvi websites hot pages e landing pages para clientes de diferentes segmentos de mercado como Saúde, Logística e Construtoras. Projetei campanhas de email marketing para diferentes provedores como Outlook, Gmail e RdStation e ministrei treinamentos para equipes de marketing para viabilizar entregas de campanhas e oferecer suporte na assimilação de novas tecnologias."
         },
         "year": "2023 - 2024",
@@ -152,11 +152,11 @@
         "url": "https://curseduca.com/",
         "image": "./images/projects/curseduca.png",
         "title": {
-          "en": "Maintence and Features ",
+          "en": "Website Update and Migration to ReactJS ",
           "pt": "Correções e Melhorias na aplicação Saas de E-Learning"
         },
         "desc": {
-          "en": "",
+          "en": "As a Full Stack Developer at Curseduca, I performed maintenance on the monolithic PHP MVC application built with Zend Framework, vanilla JavaScript, and jQuery. I was involved in the early stages of the project migration to a microservices architecture, creating RESTful APIs with NestJS and Prisma ORM, using Clean Code and Domain-Driven Design (DDD) as approaches.",
           "pt": "Como Dev Full Stack do Curseduca, realizei manutenções na aplicação monolito em php mvc, zend framework vanilla js e jQuery. Participei do início do projeto de migração para arquitetura de microsseriços criando Restfull Apis com nestjs, prisma ORM usando Clean Code e DDD como abordagem."
         },
         "year": "2022 - 2023",
@@ -174,11 +174,11 @@
         "url": "https://www.clinicacauchioli.com.br/",
         "image": "./images/projects/clinica.png",
         "title": {
-          "en": "Maintence and Features ",
+          "en": "Website Update and Migration to ReactJS ",
           "pt": "Atualização do Website e Migração para ReactJS"
         },
         "desc": {
-          "en": "",
+          "en": "As a Full Stack Developer for the website of Clinica Cauchioli, I implemented corrections and improvements to the project using PHP, CodeIgniter, jQuery, WordPress, and MySQL. I carried out the migration of the platform to ReactJS, utilizing the WordPress API as the backend. Additionally, I developed email response functionality for contact forms.",
           "pt": "Como Dev Full Stack para o website  da Clinica Cauchioli, desenvolvi correções e melhorias no projeto em PHP, Codeigniter, JQuery, Wordpress e Mysql. Realizei a migração da plataforma para ReactJs consumindo a API do Wordpress como Backend. Também desenvolvi email de resposta para formulários de contato."
         },
         "year": "2023 - 2024",
@@ -196,11 +196,11 @@
         "url": "https://www.meuapenolitoral.com.br/",
         "image": "./images/projects/credlar.png",
         "title": {
-          "en": "Maintence and Features ",
+          "en": "Website Update and Migration to ReactJS ",
           "pt": "Atualização do Website e Migração para ReactJS"
         },
         "desc": {
-          "en": "",
+          "en": "As a Full Stack Developer for the sales website of Construtora Credlar, I implemented corrections and improvements to the project using PHP, CodeIgniter, jQuery, WordPress, and MySQL. I carried out the migration of the platform to ReactJS, utilizing the WordPress API as the backend. Additionally, I developed email response functionality for interest forms and personalized email marketing campaigns for each type of real estate project.",
           "pt": "Como Dev Full Stack para o website de vendas da Construtora Credlar, desenvolvi correções e melhorias no projeto em PHP, Codeigniter, JQuery, Wordpress e Mysql. Realizei a migração da plataforma para ReactJs consumindo a API do Wordpress como Backend. Também desenvolvi Email de resposta para formulários de interesse e email marketing personalizados para cada tipo de empreendimento."
         },
         "year": "2023 - 2024",
@@ -218,11 +218,11 @@
         "url": "https://crecheparacachorrosaopaulo.com.br/",
         "image": "./images/projects/planet-dog.png",
         "title": {
-          "en": "Maintence and Features ",
+          "en": "Website Update and Migration to ReactJS ",
           "pt": "Atualização do Website e Migração para ReactJS"
         },
         "desc": {
-          "en": "",
+          "en": "As a Full Stack Developer for the website of Planet Dog - Creche Para Cachorros, I implemented corrections and improvements to the project using PHP, CodeIgniter, jQuery, WordPress, and MySQL. I carried out the migration of the platform to ReactJS, utilizing the WordPress API as the backend. Additionally, I developed email response functionality for interest forms and personalized email marketing campaigns for each type of service.",
           "pt": "Como Dev Full Stack para o website Planet Dog - Creche Para Cachorros, desenvolvi correções e melhorias no projeto em PHP, Codeigniter, JQuery, Wordpress e Mysql. Realizei a migração da plataforma para ReactJs consumindo a API do Wordpress como Backend. Também desenvolvi Email de resposta para formulários de interesse e email marketing personalizados para cada tipo de serviço ."
         },
         "year": "2023 - 2024",

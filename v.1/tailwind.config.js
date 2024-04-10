@@ -27,8 +27,8 @@ export default {
         "2xl": "1220px",
       },
       backgroundImage: {
-        "dark-bg": 'url("./images/hero/dark-bg.gif")',
-        "light-bg": 'url("./images/hero/light-bg.gif")',
+        "dark-bg": 'url("/images/hero/dark-bg.gif")',
+        "light-bg": 'url("/images/hero/light-bg.gif")',
       },
       colors: {
         lightmode: {
