@@ -22,19 +22,19 @@
 
     "buttons": [
       {
-        "image": "https://florareiro.github.io/my-web-portfolio/images/hero/linkedin.svg",
+        "image": "/images/hero/linkedin.svg",
         "path": "",
         "en": "",
         "pt": ""
       },
       {
-        "image": "https://florareiro.github.io/my-web-portfolio/images/hero/github.svg",
+        "image": "/images/hero/github.svg",
         "path": "",
         "en": "",
         "pt": ""
       },
       {
-        "image": "https://florareiro.github.io/my-web-portfolio/images/hero/email.svg",
+        "image": "/images/hero/email.svg",
         "path": "",
         "en": "",
         "pt": ""
@@ -42,7 +42,7 @@
     ],
     "images": [
       {
-        "path": "https://florareiro.github.io/my-web-portfolio/images/hero/me.jpg"
+        "path": "/images/hero/me.jpg"
       }
     ],
     "cta": [
@@ -81,17 +81,17 @@
       {
         "en": "WebSites",
         "pt": "WebSites ",
-        "image": "https://florareiro.github.io/my-web-portfolio/images/services/website.gif"
+        "image": "/images/services/website.gif"
       },
       {
         "en": "Email Marketing",
         "pt": "Email Marketing",
-        "image": "https://florareiro.github.io/my-web-portfolio/images/services/emkt.gif"
+        "image": "/images/services/emkt.gif"
       },
       {
         "en": "CRM Integration",
         "pt": "Integração com CRM",
-        "image": "https://florareiro.github.io/my-web-portfolio/images/services/crm.gif"
+        "image": "/images/services/crm.gif"
       }
     ]
   },
@@ -128,7 +128,7 @@
       {
         "company": "Summer Comuicação",
         "url": "https://summercomunicacao.com.br/",
-        "image": "https://florareiro.github.io/my-web-portfolio/images/projects/summer.png",
+        "image": "/images/projects/summer.png",
         "title": {
           "en": "Maintence and Features ",
           "pt": "Criação de Hotsites, Landing Pages, Gestão de CRM e CMS."
@@ -150,7 +150,7 @@
       {
         "company": "Curseduca",
         "url": "https://curseduca.com/",
-        "image": "https://florareiro.github.io/my-web-portfolio/images/projects/curseduca.png",
+        "image": "/images/projects/curseduca.png",
         "title": {
           "en": "Maintence and Features ",
           "pt": "Correções e Melhorias na aplicação Saas de E-Learning"
@@ -172,7 +172,7 @@
       {
         "company": "Clinica Cauchioli",
         "url": "https://www.clinicacauchioli.com.br/",
-        "image": "https://florareiro.github.io/my-web-portfolio/images/projects/clinica.png",
+        "image": "/images/projects/clinica.png",
         "title": {
           "en": "Maintence and Features ",
           "pt": "Atualização do Website e Migração para ReactJS"
@@ -194,7 +194,7 @@
       {
         "company": "Credlar Vendas",
         "url": "https://www.meuapenolitoral.com.br/",
-        "image": "https://florareiro.github.io/my-web-portfolio/images/projects/credlar.png",
+        "image": "/images/projects/credlar.png",
         "title": {
           "en": "Maintence and Features ",
           "pt": "Atualização do Website e Migração para ReactJS"
@@ -216,7 +216,7 @@
       {
         "company": "Planet Dog",
         "url": "https://crecheparacachorrosaopaulo.com.br/",
-        "image": "https://florareiro.github.io/my-web-portfolio/images/projects/planet-dog.png",
+        "image": "/images/projects/planet-dog.png",
         "title": {
           "en": "Maintence and Features ",
           "pt": "Atualização do Website e Migração para ReactJS"

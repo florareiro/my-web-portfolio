@@ -13,17 +13,9 @@ const LanguageSwitcher = () => {
     <div className="flex items-center">
       <button onClick={toggleLanguage}>
         {language === "pt" ? (
-          <img
-            src="https://florareiro.github.io/my-web-portfolio/images/header/brasil.png"
-            width={30}
-            alt=""
-          />
+          <img src="/images/header/brasil.png" width={30} alt="" />
         ) : (
-          <img
-            src="https://florareiro.github.io/my-web-portfolio/images/header/eua.png"
-            width={30}
-            alt=""
-          />
+          <img src="/images/header/eua.png" width={30} alt="" />
         )}
       </button>
     </div>
