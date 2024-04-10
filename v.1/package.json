@@ -19,7 +19,8 @@
     "react-router-dom": "^6.22.3",
     "swiper": "^11.1.0",
     "vercel": "^33.7.0",
-    "zod": "^3.22.4"
+    "zod": "^3.22.4",
+    "vite": "^5.2.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
