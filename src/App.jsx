@@ -5,13 +5,14 @@ import Home from "./pages/Home";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Footer from "./components/footer/Footer";
 import ReactGA from "react-ga4";
+import { useEffect } from "react";
 ReactGA.initialize("G-VSNY3ZQ1LE");
 
-useEffect(() => {
-  ReactGA.send({ hitType: "pageview", page: window.location.pathname });
-}, []);
-
 function App() {
+  useEffect(() => {
+    ReactGA.send({ hitType: "pageview", page: window.location.pathname });
+  }, []);
+
   return (
     <AppProvider>
       <BrowserRouter basename="/my-web-portfolio">
