@@ -63,7 +63,7 @@ const Contact = () => {
     <section
       id="contact"
       className={`${darkMode ? "bg-darkmode-300" : "md:bg-lightmode-100"} mt-4
-       md:my-12 md:py-8`}
+       md:mt-12 md:py-8`}
     >
       <div className="lg:container">
         <div className="grid h-full  grid-cols-1 md:grid-cols-2 py-8">
@@ -142,20 +142,20 @@ const Contact = () => {
           </div>
           <div
             className={`${
-              darkMode ? "bg-dark-bg" : "bg-light-bg text-white"
+              darkMode ? "bg-lightmode-300" : "bg-lightmode-300 text-white"
             } min-h-[250px] bg-cover flex flex-col items-center justify-center lg:rounded-e-md gap-y-4 md:gap-y-[50px] order-first md:order-2 shadow-md`}
           >
             <h1 className="text-6xl md:text-7xl text-center px-7 pt-4">
               {contact.title[language]}
             </h1>
             <div className="flex justify-center items-center gap-x-8 md:gap-x-4 pb-4">
-              <a href={social.github} target="_blank">
+              {/* <a href={social.github} target="_blank">
                 <AiFillGithub
                   className="hover:scale-110 ease-in-out duration-300 "
                   size={30}
                   color="#fffff"
                 />
-              </a>
+              </a> */}
               <a href={social.linkdin} target="_blank">
                 <BiLogoLinkedin
                   className="hover:scale-110 ease-in-out duration-300 "

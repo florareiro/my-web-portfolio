@@ -27,8 +27,9 @@ export default {
         "2xl": "1220px",
       },
       backgroundImage: {
-        "dark-bg": 'url("/images/hero/dark-bg.gif")',
-        "light-bg": 'url("/images/hero/light-bg.gif")',
+        hero: 'url("/images/hero/yin-und-bird-v2.gif")',
+        me: 'url("/images/hero/eu-v2.png")',
+        form: 'url("/images/hero/yin-und-bird.gif")'
       },
       colors: {
         lightmode: {

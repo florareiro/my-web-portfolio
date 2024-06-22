@@ -24,17 +24,15 @@ const Home = () => {
         <About />
         {/* about  */}
 
-        {/* services  */}
-        <Services />
-        {/* services  */}
+        <Services/>
+
+        {/* projects  */}
+        {/* <Projects /> */}
+        {/* projects  */}
 
         {/* contact  */}
         <Contact />
         {/* contact  */}
-
-        {/* projects  */}
-        <Projects />
-        {/* projects  */}
       </div>
     </main>
   );

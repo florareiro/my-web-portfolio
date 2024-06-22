@@ -5,9 +5,9 @@
       "pt": "Cecília Flora - Dev Full Stack"
     },
     "menu": {
-      "en": ["About", "Services", "Projects", "Contact"],
-      "pt": ["Sobre", "Serviços", "Projetos", "Contato"],
-      "links": ["#about", "#services", "#projects", "#contact"]
+      "en": ["About",  "Projects", "Contact"],
+      "pt": ["Sobre",  "Projetos", "Contato"],
+      "links": ["#about",  "#services", "#contact"]
     }
   },
   "hero": {
@@ -16,25 +16,25 @@
       "pt": "Olá, eu sou Cecília Flora"
     },
     "text": {
-      "en": "Full Stack Web Developer with solid knowledge in Reactjs, Nodejs, SQL, PHP, and Wordpress technologies. I have experience with the entire application development cycle, always aiming for high performance and agility in delivering projects.",
-      "pt": "Web Full Stack Developer com sólidos conhecimentos nas tecnologias Reactjs, Nodejs, Sql, PHP e Wordpress. Possuo experiência com todo o ciclo de desenvolvimento de aplicações visando sempre alta performance e agilidade na construção de entregáveis."
+      "en": "I have 6 years of experience with focus on Motion Graphics and Graphic Design. I am a responsible and dynamic person, very passionate about video and animation. I have experience working on video, animations for social networks, producing short videos for companies, and designing characters in 2D. ",
+      "pt": "Ich habe 6 Jahre Erfahrung mit Schwerpunkt auf Motion Graphics und Grafikdesign. Ich bin eine verantwortungsbewusste und dynamische Person, die sehr leidenschaftlich für Video und Animation ist. Ich habe Erfahrung in der Arbeit an Videos, Animationen für soziale Netzwerke, Produktion von Kurzvideos für Unternehmen und im Designen von Charakteren in 2D."
     },
 
     "buttons": [
       {
-        "image": "./images/hero/linkedin.svg",
+        "image": "/images/hero/linkedin.svg",
         "path": "",
         "en": "",
         "pt": ""
       },
       {
-        "image": "./images/hero/github.svg",
+        "image": "/images/hero/github.svg",
         "path": "",
         "en": "",
         "pt": ""
       },
       {
-        "image": "./images/hero/email.svg",
+        "image": "/images/hero/email.svg",
         "path": "",
         "en": "",
         "pt": ""
@@ -42,7 +42,7 @@
     ],
     "images": [
       {
-        "path": "./images/hero/me.jpg"
+        "path": "/images/hero/me.jpg"
       }
     ],
     "cta": [
@@ -54,44 +54,49 @@
   },
   "about": {
     "text": {
-      "en": "ABOUT ME",
-      "pt": "SOBRE MIM"
+      "en": "Hi, I'm Samanta",
+      "pt": "Hallo, ich bin Samanta"
     },
     "desc": [
       {
-        "en": "Graduated in Internet Systems at FIAP.",
-        "pt": "Formada em Sistemas para Internet pela fiap."
+        "en": "2D Animation",
+        "pt": "2D Animation"
       },
       {
-        "en": "I studied Radio, TV, and Internet atUniversidade Metodista.",
-        "pt": "Cursei Radio TV e Internet pela Universidade Metodista."
+        "en": "Motion Design",
+        "pt": "Bewegungsdesign"
       },
       {
-        "en": "Freelance photographer for 6 years.",
-        "pt": "Fotógrafa Freelancer há 6 anos."
+        "en": "Graphic Design",
+        "pt": "Grafikdesigner"
       }
     ]
   },
   "services": {
     "text": {
       "en": "SERVICES",
-      "pt": "SERVIÇOS"
+      "pt": "Dienstleistungen"
     },
     "services": [
       {
         "en": "WebSites",
         "pt": "WebSites ",
-        "image": "./images/services/website.gif"
+        "image": "/images/projects/Anfahrtsvideo_Auto.gif"
       },
       {
         "en": "Email Marketing",
         "pt": "Email Marketing",
-        "image": "./images/services/emkt.gif"
+        "image": "/images/projects/Beratung_&_Förderung.gif"
       },
       {
         "en": "CRM Integration",
         "pt": "Integração com CRM",
-        "image": "./images/services/crm.gif"
+        "image": "/images/projects/Meine-Region-v17.gif"
+      },
+      {
+        "en": "CRM Integration",
+        "pt": "Integração com CRM",
+        "image": "/images/projects/schaufenster-arbeitsmarkt.gif"
       }
     ]
   },
@@ -121,14 +126,14 @@
       "pt": "Função"
     },
     "tech": {
-      "en": "Stack",
-      "pt": "Stack"
+      "en": "Client",
+      "pt": "Kunde"
     },
     "projects": [
       {
         "company": "Summer Comuicação",
         "url": "https://summercomunicacao.com.br/",
-        "image": "./images/projects/summer.png",
+        "image": "https://www.behance.net/embed/project/193638173?ilo0=1",
         "title": {
           "en": "Website Update and Migration to ReactJS ",
           "pt": "Criação de Hotsites, Landing Pages, Gestão de CRM e CMS."
@@ -143,14 +148,14 @@
           "pt": "Dev Full Stack"
         },
         "tech": {
-          "en": "PHP, Codeigniter, Mysql, JQuery, ReactJs Wordpress, Api Wordpress, Email Marketing, Hospedagem,Servidor FTP, Gestão Web Analytics e  Gestão CRM.",
-          "pt": "PHP, Codeigniter, Mysql, JQuery, ReactJs Wordpress, Api Wordpress, Email Marketing, Hospedagem,Servidor FTP, Gestão Web Analytics e Gestão CRM."
+          "en": "Viena Airport",
+          "pt": "Viena Airport"
         }
       },
       {
         "company": "Curseduca",
         "url": "https://curseduca.com/",
-        "image": "./images/projects/curseduca.png",
+        "image": "/images/projects/curseduca.png",
         "title": {
           "en": "Website Update and Migration to ReactJS ",
           "pt": "Correções e Melhorias na aplicação Saas de E-Learning"
@@ -172,7 +177,7 @@
       {
         "company": "Clinica Cauchioli",
         "url": "https://www.clinicacauchioli.com.br/",
-        "image": "./images/projects/clinica.png",
+        "image": "/images/projects/clinica.png",
         "title": {
           "en": "Website Update and Migration to ReactJS ",
           "pt": "Atualização do Website e Migração para ReactJS"
@@ -194,7 +199,7 @@
       {
         "company": "Credlar Vendas",
         "url": "https://www.meuapenolitoral.com.br/",
-        "image": "./images/projects/credlar.png",
+        "image": "/images/projects/credlar.png",
         "title": {
           "en": "Website Update and Migration to ReactJS ",
           "pt": "Atualização do Website e Migração para ReactJS"
@@ -216,7 +221,7 @@
       {
         "company": "Planet Dog",
         "url": "https://crecheparacachorrosaopaulo.com.br/",
-        "image": "./images/projects/planet-dog.png",
+        "image": "/images/projects/planet-dog.png",
         "title": {
           "en": "Website Update and Migration to ReactJS ",
           "pt": "Atualização do Website e Migração para ReactJS"
@@ -277,8 +282,8 @@
   },
   "social": {
     "github": "https://github.com/florareiro",
-    "linkdin": "https://www.linkedin.com/in/florareiro/",
-    "mail": "mailto:ceciliaflora.dev@gmail.com",
-    "wpp": "https://wa.me/5512988498819"
+    "linkdin": "https://www.linkedin.com/in/samanta-reis-16149313/",
+    "mail": "mailto:smnt.rs@gmail.com",
+    "wpp": "https://wa.me/5511962515995"
   }
 }
