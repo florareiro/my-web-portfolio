@@ -46,7 +46,7 @@ const Footer = () => {
             </a>
           </div>
           <h2 className="md:text-xl flex justify-center  items-center">
-            © 2024 Cecília Flora
+            © 2024 Lírio Flora
           </h2>
         </div>
       </div>
