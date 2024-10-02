@@ -31,7 +31,7 @@ const Header = () => {
         <div className="w-full hidden md:flex items-center">
           <a href={"#"}>
             <h1 className="font-thin ">
-              Cecília Flora {""}
+              Lírio Flora {""}
               <span
                 className={`${
                   darkMode ? "text-[#D3E97A]" : "text-[#FF6D1B]"

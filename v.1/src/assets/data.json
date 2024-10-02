@@ -1,8 +1,8 @@
 {
   "header": {
     "title": {
-      "en": "Cecília Flora - Full Stack Developer",
-      "pt": "Cecília Flora - Dev Full Stack"
+      "en": "Lírio Flora - Full Stack Developer",
+      "pt": "Lírio Flora - Dev Full Stack"
     },
     "menu": {
       "en": ["About", "Services", "Projects", "Contact"],
@@ -12,8 +12,8 @@
   },
   "hero": {
     "title": {
-      "en": "Hi, I'm Cecília Flora",
-      "pt": "Olá, eu sou Cecília Flora"
+      "en": "Hi, I'm Lírio Flora",
+      "pt": "Olá, eu sou Lírio Flora"
     },
     "text": {
       "en": "Full Stack Web Developer with solid knowledge in Reactjs, Nodejs, SQL, PHP, and Wordpress technologies. I have experience with the entire application development cycle, always aiming for high performance and agility in delivering projects.",
@@ -42,7 +42,7 @@
     ],
     "images": [
       {
-        "path": "./images/hero/me.jpg"
+        "path": "./images/hero/eueu.jpg"
       }
     ],
     "cta": [
