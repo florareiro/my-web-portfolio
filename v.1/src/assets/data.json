@@ -60,7 +60,7 @@
     "desc": [
       {
         "en": "Graduated in Internet Systems at FIAP.",
-        "pt": "Formada em Sistemas para Internet pela fiap."
+        "pt": "Formado em Sistemas para Internet pela fiap."
       },
       {
         "en": "I studied Radio, TV, and Internet atUniversidade Metodista.",
@@ -68,7 +68,7 @@
       },
       {
         "en": "Freelance photographer for 6 years.",
-        "pt": "Fotógrafa Freelancer há 6 anos."
+        "pt": "Fotógrafo Freelancer há 6 anos."
       }
     ]
   },
@@ -79,8 +79,8 @@
     },
     "services": [
       {
-        "en": "WebSites",
-        "pt": "WebSites ",
+        "en": "WebSites e Landing Pages",
+        "pt": "WebSites e Landing Pages",
         "image": "./images/services/website.gif"
       },
       {
