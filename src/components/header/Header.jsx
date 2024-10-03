@@ -31,20 +31,24 @@ const Header = () => {
         <div className="w-full hidden md:flex items-center">
           <a href={"#"}>
             <h1 className="font-thin ">
+<<<<<<< HEAD
               Lírio Flora {""}
+=======
+             Samanta {""}
+>>>>>>> 1382c91ad7bfbfbac2b92a9a5184d27e27ff8e53
               <span
                 className={`${
                   darkMode ? "text-[#D3E97A]" : "text-[#FF6D1B]"
                 } font-semibold`}
               >
-                - Dev
+                Reis
               </span>
             </h1>
           </a>
         </div>
         <div className="flex gap-x-4 items-center justify-start md:justify-center w-full">
           <ThemeSwitcher />
-          <LanguageSwitcher />
+          {/* <LanguageSwitcher /> */}
         </div>
         <div className=""></div>
         <div className="w-full flex justify-end">
@@ -98,13 +102,13 @@ const Header = () => {
                   ))}
                 </ul>
                 <div className="flex justify-center items-center gap-x-4  mt-[100px]">
-                  <a href={social.github} target="_blank">
+                  {/* <a href={social.github} target="_blank">
                     <AiFillGithub
                       className="hover:scale-110 ease-in-out duration-300 "
                       size={25}
                       color="#fffff"
                     />
-                  </a>
+                  </a> */}
                   <a href={social.linkdin} target="_blank">
                     <BiLogoLinkedin
                       className="hover:scale-110 ease-in-out duration-300 "

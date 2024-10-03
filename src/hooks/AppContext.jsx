@@ -9,7 +9,7 @@ export const useAppContext = () => useContext(AppContext);
 
 export const AppProvider = ({ children }) => {
   const [darkMode, setDarkMode] = useState(false);
-  const [language, setLanguage] = useState("pt");
+  const [language, setLanguage] = useState("en");
   const [userLocation, setUserLocation] = useState(null);
 
   return (

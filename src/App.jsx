@@ -15,12 +15,12 @@ function App() {
 
   return (
     <AppProvider>
-      <BrowserRouter basename="/my-web-portfolio">
+      <BrowserRouter basename="/">
         <Header />
         <Routes>
           <Route path="/" element={<Home />} />
         </Routes>
-        <Footer />
+        {/* <Footer /> */}
       </BrowserRouter>
     </AppProvider>
   );
